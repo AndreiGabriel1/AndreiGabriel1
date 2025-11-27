@@ -1,7 +1,7 @@
 # Andrei-Gabriel Dinu
 
 TypeScript-first developer focused on React, Node.js and clean, scalable architecture.  
-Practic a high-signal workflow: clarity, predictable code, and senior-layer reasoning.
+I practice a high-signal workflow: clarity, predictable code, and senior-layer reasoning.
 
 ### Core Projects
 - **EventFlow** — modern event management system (TypeScript, modular routing, URL-sync logic)
