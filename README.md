@@ -1,16 +1,19 @@
-## Hi there 👋
+# Andrei-Gabriel Dinu
 
-<!--
-**AndreiGabriel1/AndreiGabriel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TypeScript-first developer focused on React, Node.js and clean, scalable architecture.  
+Practic a high-signal workflow: clarity, predictable code, and senior-layer reasoning.
 
-Here are some ideas to get you started:
+### Core Projects
+- **EventFlow** — modern event management system (TypeScript, modular routing, URL-sync logic)
+- **BuildTracker** — materials & inventory tracking (CRUD core, validation, slug system)
+- **AFrameHub** — gallery & detail views with extendable review system
+- **Showcase** — curated index of pre-interview projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+- TypeScript mastery  
+- React architecture & composition patterns  
+- Node.js APIs, routing and validation  
+- High-level reasoning, debugging workflow, performance-first thinking
+
+### Contact
+LinkedIn available on request.
