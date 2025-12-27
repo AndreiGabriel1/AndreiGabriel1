@@ -12,7 +12,7 @@ A compact end-to-end system designed for inspection and discussion:
 
 ### EventFlow
 A compact TypeScript + Express API with a stable contract and a minimal probe UI:
-- Stable response envelope (\{ ok, data }`)`
+- Stable response envelope `(\{ ok, data })`
 - Deterministic search + explicit fallback behavior
 - Static UI to validate the API end-to-end (no framework required)
 
