@@ -1,21 +1,52 @@
 ﻿# Andrei-Gabriel Dinu
 
-TypeScript-first developer building small, inspectable systems: stable contracts, deterministic behavior, and explicit failure handling.
+TypeScript developer focused on clean architecture, deterministic systems, and robust error handling.
+
+---
 
 ## Selected work
 
-### AngleLab Explore
+### [AngleLab Explore](https://github.com/AndreiGabriel1/AngleLab-Explore)
+
 A compact end-to-end system built for clear inspection and discussion:
+
 - layered core with explicit ownership boundaries
-- deterministic rules pipeline (refine → rank → select) with “no decision” outcomes
+- deterministic rules pipeline (refine → rank → select) with "no decision" outcomes
 - CLI + Next.js consumer reusing the same core
 
-### EventFlow
+### [EventFlow](https://github.com/AndreiGabriel1/EventFlow)
+
 A compact TypeScript + Express API demonstrating contract-first backend fundamentals:
+
 - stable response envelope (`{ ok, data }`) and clear HTTP failure behavior
 - deterministic search with explicit fallback (`isFallbackQuery`)
 - minimal probe UI (`/index.html`, `/details.html`) to validate the flow end-to-end
 
+---
+
+## Skills
+
+**Languages & Runtime:** TypeScript, JavaScript, Node.js
+
+**Frontend:** React, Next.js, HTML/CSS
+
+**Backend:** Express, REST APIs, Contract design
+
+**Tools:** Git, Vitest/Jest, npm
+
+**Concepts:** Layered architecture, Deterministic systems, Error boundaries, Type safety
+
+---
+
+## Background
+
+10 weeks intensive self-taught journey (Oct-Dec 2024): HTML/CSS/JS → TypeScript → React/Next.js → System Design fundamentals.
+
+Focused on building small, complete systems that demonstrate architectural thinking rather than feature breadth.
+
+---
+
 ## Contact
-- andrei.dinu.dev@gmail.com
-- linkedin.com/in/andrei-gabriel-dinu-173240251
+
+- Email: andrei.dinu.dev@gmail.com
+- LinkedIn: [linkedin.com/in/andrei-gabriel-dinu-173240251](https://linkedin.com/in/andrei-gabriel-dinu-173240251)
