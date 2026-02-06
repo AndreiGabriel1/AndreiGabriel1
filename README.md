@@ -40,9 +40,9 @@ A compact TypeScript + Express API demonstrating contract-first backend fundamen
 
 ## Background
 
-10 weeks intensive self-taught journey (Oct-Dec 2024): HTML/CSS/JS → TypeScript → React/Next.js → System Design fundamentals.
+Self-taught developer since October 2025. Intensive focus on TypeScript, React/Next.js, and system design fundamentals.
 
-Focused on building small, complete systems that demonstrate architectural thinking rather than feature breadth.
+Built AngleLab and EventFlow to demonstrate architectural thinking and deterministic system design.
 
 ---
 
